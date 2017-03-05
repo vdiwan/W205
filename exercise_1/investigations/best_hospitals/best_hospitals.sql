@@ -1,4 +1,4 @@
-elect Provider_Number,
+select Provider_Number,
 Hospital_Name,
 Communication_with_Nurses_Performance_Rate,
 Communication_with_Doctors_Performance_Rate,
