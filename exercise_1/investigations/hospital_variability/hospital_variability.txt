@@ -1,0 +1,16 @@
+tate	avg_Hos_OR          	max_Hos_OR      min_Hos_OR	Variability_OR
+NY      2.311688311688312       5       	1       	0.943325703757656
+SC      3.207547169811321       5       	1       	0.9388570041226209
+NV      2.423076923076923       4       	1       	0.9270746763995346
+MI      3.1913043478260867      5       	1      		0.9030927746064153
+AZ      2.9454545454545453      5       	1       	0.8825208072372069
+NJ      2.546875        	4       	1       	0.8647558813763571
+IL      3.1320754716981134      5       	1       	0.8326150933505183
+HI      3.3076923076923075      5       	2       	0.8213137116947162
+CA      2.8413793103448275      5       	1       	0.8193846477395391
+PA      3.0067567567567566      5       	1       	0.8095429276101024
+
+
+For analyzing in variability of hospital ratings, I used the stddev function to get the standard deviation of Hosputal_Overall_Rating by state.
+As we can see from data, New York state has the highest variability in ratings with ratings ranging from 1 to 5 on the scale and standard deviation of 0.94.
+

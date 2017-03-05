@@ -1,0 +1,22 @@
+ 
+spital_Name Communication_with_Nurses_Performance_Rate Communication_with_Doctors_Performance_Rate Responsiveness_of_Hospital_Staff_Performance_Rate Pain_Management_Performance_Rate Communication_about_Medicines_Performance_Rate Cleanliness_and_Quietness_of_Hospital_Environment_Performance_Rate Overall_Rating_of_Hospital_Baseline_Rate Overall_Rating_of_Hospital_Performance_Rate
+HCAHPS_Base_Score HCAHPS_Consistency_Score
+050697  PATIENTS' HOSPITAL OF REDDING   		96.18   92.94   94.38   87.48   90.56   90.73   95.02   96.05   80      20
+390324  PHYSICIAN'S CARE SURGICAL HOSPITAL      	95.75   91.20   92.55   86.46   79.15   86.64   92.50   95.50   80      20
+370215  OKLAHOMA HEART HOSPITAL, LLC    		90.22   89.65   90.59   81.60   74.65   81.36   95.75   95.28   79      20
+390312  CANCER TREATMENT CENTERS OF AMERICA     	89.03   84.10   83.25   74.53   67.70   74.03   87.97   94.64   55      20
+390323  ADVANCED SURGICAL HOSPITAL     	 		96.57   94.47   93.80   86.66   87.71   87.33   94.15   94.52   80      20
+110233  SOUTHEASTERN REGIONAL MEDICAL CENTER    	90.60   89.68   77.32   75.13   76.75   82.82   90.73   94.36   68      20
+360352  SURGICAL HOSPITAL AT SOUTHWOODS 		93.99   90.48   87.94   84.17   84.25   87.20   92.04   93.99   80      20
+030103  MAYO CLINIC HOSPITAL    			87.40   87.31   82.29   80.03   71.58   75.63   91.03   93.86   72      20
+520194  ORTHOPAEDIC HOSPITAL OF WISCONSIN       	94.09   91.38   86.66   79.81   82.05   82.77   94.46   93.58   80      20
+390327  WELLSPAN SURGERY AND REHABILITATION HOSPITAL    94.77   87.06   89.50   79.69   76.27   84.87   91.22   93.37   78      20
+
+
+
+The quality of hospital care dependends on serveral factor as well as depends on what the reviewer thinks is most most important for them.
+For selecting the top 10 hospitals by quality of care, I have chosen the  "Overall_Rating_of_Hospital_Performance_Rate" metric to rank hospitals.
+By this rating, Patients Hospital of Redding is the top hospital in the US. The hospital also ranks top in serveral of the other metrics such as 
+Communication with Nurses and Staff Responsiveness. 
+
+

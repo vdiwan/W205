@@ -1,0 +1,19 @@
+
+
+Provider_Number Hospital_Name 			City 		State HCAHPS_Base_Score HCAHPS_Consistency_Score HCAHPS_Total_Score
+520196  	OAKLEAF SURGICAL HOSPITAL       Altoona 	WI      80      	20      		 100.0
+190255  	PARK PLACE SURGICAL HOSPITAL    Lafayette       LA      80  		20			 100.0
+180149  	T J HEALTH COLUMBIA     	Columbia        KY      80      	20      		 100.0
+360352  	SURGICAL HOSPITAL AT SOUTHWOODS Youngstown      OH      80      	20      		 100.0
+170190  	MANHATTAN SURGICAL HOSPITAL LLC Manhattan       KS      80      	20      		 100.0
+390325  	OSS ORTHOPAEDIC HOSPITAL        York    	PA      80      	20      		 100.0
+050697  	PATIENTS' HOSPITAL OF REDDING   Redding 	CA      80      	20		         100.0
+670076  	BAYLOR SCOTT & WHITE HOSPITAL   Sherman 	TX      80      	20		         100.0
+450864  	TEXAS SPINE AND JOINT HOSPITAL  Tyler   	TX      80      	20      		 100.0
+390316  	SURGICAL INSTITUTE OF READING   Wyomissing      PA      80		20		         100.0
+
+The Survey Responses table contains Hospital-level results on patient experience domain measures for Hospital Value-Based Purchasing.
+In this table, the HCAHPS Base and Consistency scores are most important with the sacales adding up to 100. The top 10 horpitals are from various states
+with two of them being from Texas. All of the top 10 hospitals as rated by patients in their survey responses have perfrect HCAHPS scores. 
+ 
+

@@ -1,0 +1,16 @@
+State	avg_Hospital_overall_rating
+SD      3.857142857142857
+DE      3.6666666666666665
+WI      3.611111111111111
+MN      3.5316455696202533
+ID      3.526315789473684
+IN      3.4814814814814814
+NH      3.48
+CO      3.450980392156863
+UT      3.4482758620689653
+ME      3.4375
+
+For selecting the best States, I used the table I created in Week 6 called 'avg_hospital_rating_by_state' which stores the average hospital overall rating as well as other aggregating ratings by state. 
+For selecting the top 10 states, I used the avg_hospital_overall_rating metric. From the results, we can see that South Dacota, Deleware and Wisconsin are the top with highest hospital overall ratings among 
+the hospitals participating in the survey.
+

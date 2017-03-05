@@ -1,0 +1,17 @@
+elect Provider_Number,
+Hospital_Name,
+Communication_with_Nurses_Performance_Rate,
+Communication_with_Doctors_Performance_Rate,
+Responsiveness_of_Hospital_Staff_Performance_Rate,
+Pain_Management_Performance_Rate,
+Communication_about_Medicines_Performance_Rate,
+Cleanliness_and_Quietness_of_Hospital_Environment_Performance_Rate,
+Overall_Rating_of_Hospital_Baseline_Rate,
+Overall_Rating_of_Hospital_Performance_Rate,
+HCAHPS_Base_Score,
+HCAHPS_Consistency_Score
+from Survey_Responses
+where Overall_Rating_of_Hospital_Performance_Rate != 'Not Available'
+order by Overall_Rating_of_Hospital_Performance_Rate desc 
+limit 10;
+
