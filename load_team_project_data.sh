@@ -45,3 +45,10 @@ truncate ccdata;
 
 #load data into ccdata table
 COPY ccdata FROM '/data/project/staging/rows.csv' WITH DELIMITER ',' CSV HEADER;
+
+
+#testing ccdata table
+select * from ccdata limit 10;
+
+
+
